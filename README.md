@@ -5,7 +5,7 @@
 
 Implement **GOMOKU GAME** using Minimax and Alpha-Beta Pruning algorithm.
 
-Optimize time execution with some technique:
+Optimize execution time with some technique:
 
 1. Limit the traversal area for each node by 1 cell.
 
