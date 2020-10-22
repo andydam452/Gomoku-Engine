@@ -13,7 +13,7 @@ Optimize time execution with some technique:
 
 3. Get the top n nodes which have the highest score (calculate by using multithread)
 
-##Library
+## Library
 
 ```sh
 pip install pygame
