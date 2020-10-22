@@ -17,7 +17,6 @@ Optimize execution time with some technique:
 
 ```sh
 pip install pygame
-python pygametest.py
 ```
 
 ## Start game
